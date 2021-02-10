@@ -29,3 +29,5 @@ toml==0.10.2
 uvicorn==0.13.3
 wrapt==1.12.1
 uvloop
+httptools
+scikit-learn
